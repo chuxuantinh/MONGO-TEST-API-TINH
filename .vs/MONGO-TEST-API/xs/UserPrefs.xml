@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{CE5558D1-E923-423F-BC5D-4161DE10FD14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MONGO-TEST-API/Model/NoteImage.cs">
+    <Files>
+      <File FileName="MONGO-TEST-API/Properties/launchSettings.json" Line="9" Column="6" />
+      <File FileName="MONGO-TEST-API/appsettings.json" Line="20" Column="1" />
+      <File FileName="MONGO-TEST-API/Startup.cs" Line="1" Column="1" />
+      <File FileName="MONGO-TEST-API/Model/Note.cs" Line="24" Column="6" />
+      <File FileName="MONGO-TEST-API/Model/Settings.cs" Line="9" Column="2" />
+      <File FileName="MONGO-TEST-API/Model/NoteParam.cs" Line="11" Column="1" />
+      <File FileName="MONGO-TEST-API/Data/NoteContext.cs" Line="5" Column="2" />
+      <File FileName="MONGO-TEST-API/Interfaces/INoteRepository.cs" Line="7" Column="36" />
+      <File FileName="MONGO-TEST-API/Controllers/SystemController.cs" Line="65" Column="24" />
+      <File FileName="MONGO-TEST-API/Data/NoteRepository.cs" Line="11" Column="1" />
+      <File FileName="MONGO-TEST-API/Infrastructure/NoCacheAttribute.cs" Line="15" Column="45" />
+      <File FileName="MONGO-TEST-API/Controllers/NotesController.cs" Line="75" Column="6" />
+      <File FileName="MONGO-TEST-API/Program.cs" Line="1" Column="1" />
+      <File FileName="MONGO-TEST-API/Model/NoteImage.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MONGO-TEST-API" expanded="True">
+            <Node name="MONGO-TEST-API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="NoteImage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MONGO-TEST-API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
